@@ -18,3 +18,6 @@ We are working on the Python (Jupyter Notebook) environment and imported some of
 	     2. Pandas, Numpy, Matplotlib, Seaborn
 	     3. Keras Library for LSTM
 	     4. SKlearn Library to import the pre-defined models
+
+## Authors:
+Bansi Sojitra, Meetkumar Patel, Sama Samrin
