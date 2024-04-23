@@ -1,2 +1,3 @@
-# Aviation-Anomaly-Detection---Preliminary
-Preliminary steps of our attempt at anomaly detection from aviation datasets
+# Anomaly Detection in Air Traffic Data Streams
+
+Applying anomaly detection approaches to the sector of aviation carries the potential to save millions of lives. Utilizing well-researched anomaly detection algorithms like isolation forest and combining them with techniques like sliding windows, this project aims to produce an efficient method to identify potential anomalies in air traffic data streams. It trains the model on an initially unlabelled dataset and attempts to pinpoint the specific locations and frame rates of the detected anomalies. By addressing anomalies in aviation data, the study endeavours to contribute to the enhancement of safety and efficiency within the aviation sector.
