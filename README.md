@@ -7,13 +7,13 @@ Flight Data Tail 682 By Bryan Mathews (https://c3.ndc.nasa.gov/dashlink/resource
 
 ## Environment For Code
 We are working on the Python (Jupyter Notebook) environment and imported some of the libraries to run our code.
-> Files used for code: 
-682200107170331.csv (Original File)
-682200107170331_fill_zero.csv (Filled Zero values)
-682200107170331_fill_knn2.csv (KNN imputed with Neighbour value 2)
-682200107170331_fill_knn3.csv (KNN imputed with Neighbour value 3)
+### Files used for code: 
+- 682200107170331.csv (Original File)
+- 682200107170331_fill_zero.csv (Filled Zero values)
+- 682200107170331_fill_knn2.csv (KNN imputed with Neighbour value 2)
+- 682200107170331_fill_knn3.csv (KNN imputed with Neighbour value 3)
 
-> Libraries Used:
+### Libraries Used:
 	     1. Tensorflow Library  for Autoencoders
 	     2. Pandas, Numpy, Matplotlib, Seaborn
 	     3. Keras Library for LSTM
